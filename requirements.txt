@@ -6,3 +6,4 @@ Flask_WTF==1.0.0
 Pillow==8.4.0
 WTForms==3.0.0
 email-validator
+Flask-Mail==0.9.1
